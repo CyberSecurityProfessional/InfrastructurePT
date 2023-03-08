@@ -1,2 +1,2 @@
 # InfrastructurePT
-Complete network penetration testing research.
+Complete network penetration testing methodology research.
